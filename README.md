@@ -50,14 +50,16 @@ weather-dashboard/
 ├── images/           # Folder containing screenshots and assets  
 └── README.md         # Project details and overview  
 
-git clone https://github.com/username/weather-dashboard.git
+git clone https://github.com/Sridaya/CODTECH-Task2
 
 Internship Details in Offer Letter
 
-Mentor Name:
+Mentor Name: Neela Santhosh
 
 Domain: Frontend Development
 
 Internship ID: CT08DS9364
 
+Video Presentation
 
+The recorded video presentation explaining the project can be found at this LinkedIn Post Link.
