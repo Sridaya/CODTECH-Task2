@@ -63,3 +63,5 @@ Internship ID: CT08DS9364
 Video Presentation
 
 The recorded video presentation explaining the project can be found at this LinkedIn Post Link.
+
+https://www.linkedin.com/posts/dayasri-kannan-9996312a1_frontenddevelopment-webdevelopment-codtechinternship-activity-7266464222954299392-_wnY?utm_source=share&utm_medium=member_desktop
