@@ -37,8 +37,27 @@ Displays real-time temperature, humidity, wind speed, and weather icons.
 
 Responsive design compatible with both desktop and mobile devices.
 
-Output Screenshot:
+## Output Screenshot
 
-Below is an example of the Weather Dashboard's output:
+Below is the output of the Weather Dashboard application:
+
+![Weather Dashboard Output](https://github.com/Sridaya/CODTECH-Task2/blob/main/overview.png)
+
+weather-dashboard/
+├── index.html        # Main HTML file  
+├── style.css         # Stylesheet for the project  
+├── script.js         # JavaScript file for weather logic  
+├── images/           # Folder containing screenshots and assets  
+└── README.md         # Project details and overview  
+
+git clone https://github.com/username/weather-dashboard.git
+
+Internship Details in Offer Letter
+
+Mentor Name:
+
+Domain: Frontend Development
+
+Internship ID: CT08DS9364
 
 
